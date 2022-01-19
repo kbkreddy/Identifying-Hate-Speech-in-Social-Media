@@ -8,4 +8,6 @@ We need the following additional libraries to the ones discussed in the class:
 
 4) imbalanced-learn: conda install -c conda-forge imbalanced-learn
 
+5) gdown : conda install -c conda-forge gdown 
+
 We have used used the glove embeddings for training LSTM, whose gensim is present under the data folder. (No installs need to be done)
